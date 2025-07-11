@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on a secure and automated log pipline.<br>I'm currently learning python<br>Fun fact we all have an gravitational pull 
+⏱️Im currently working on a secure and automated log pipline.<br>📖I'm currently learning python<br>🌟Fun fact we all have an gravitational pull 
 
 
 ## 🌐 Socials:
